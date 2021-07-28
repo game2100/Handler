@@ -58,7 +58,7 @@
     "_groupIndex": 0,
     "groupIndex": 0,
     "autoReleaseAssets": false,
-    "_id": "f0/Tl+rk1P2IyRn+Uh2b9a"
+    "_id": "7588deb1-1aeb-4d1c-b5c2-98c14ee53eb1"
   },
   {
     "__type__": "cc.Node",
@@ -241,7 +241,7 @@
   },
   {
     "__type__": "cc.Node",
-    "_name": "bg",
+    "_name": "map",
     "_objFlags": 0,
     "_parent": {
       "__id__": 2
@@ -511,8 +511,8 @@
     },
     "_contentSize": {
       "__type__": "cc.Size",
-      "width": 76,
-      "height": 92
+      "width": 78,
+      "height": 87
     },
     "_anchorPoint": {
       "__type__": "cc.Vec2",
@@ -564,7 +564,7 @@
     "_srcBlendFactor": 770,
     "_dstBlendFactor": 771,
     "_spriteFrame": {
-      "__uuid__": "762b07ba-c1ed-4cd4-9c3e-bf666b6ad11e"
+      "__uuid__": "7926d306-191a-47da-9fc5-482256a4c38c"
     },
     "_type": 0,
     "_sizeMode": 1,
@@ -1034,7 +1034,7 @@
     "_srcBlendFactor": 770,
     "_dstBlendFactor": 771,
     "_spriteFrame": {
-      "__uuid__": "d8e6efa6-7ad0-4a5f-b6b4-8d4b348dd2a3"
+      "__uuid__": "5254bc0d-bc78-422b-82ef-cd9fa56d66cb"
     },
     "_type": 0,
     "_sizeMode": 0,

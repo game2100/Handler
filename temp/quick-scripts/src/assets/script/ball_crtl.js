@@ -64,7 +64,7 @@ var ball_ctrl = /** @class */ (function (_super) {
         var r = Math.atan2(this.stick.dir.y, this.stick.dir.x);
         var degree = r * 180 / Math.PI;
         degree = 360 - degree;
-        degree = degree - 90;
+        degree = degree + 90;
         this.node.rotation = degree;
     };
     __decorate([

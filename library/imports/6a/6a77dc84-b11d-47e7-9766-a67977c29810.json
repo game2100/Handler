@@ -1,22 +1,22 @@
 {
   "__type__": "cc.SpriteFrame",
   "content": {
-    "name": "yaogan",
-    "texture": "165d86f4-23c2-4a43-abe9-5a8faae15b0d",
+    "name": "yangan",
+    "texture": "cd580d5a-dd80-4543-acfe-5f86222d4e7d",
     "atlas": "",
     "rect": [
-      0,
-      0,
-      64,
-      64
+      19,
+      37,
+      218,
+      218
     ],
     "offset": [
-      0,
-      0
+      -12,
+      -6
     ],
     "originalSize": [
-      64,
-      64
+      280,
+      280
     ],
     "capInsets": [
       0,

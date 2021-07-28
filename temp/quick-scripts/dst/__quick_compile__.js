@@ -1,6 +1,6 @@
 
 (function () {
-var scripts = [{"deps":{"./assets/script/enable_phy":2,"./assets/script/joystick":3,"./assets/script/ball_crtl":1},"path":"preview-scripts/__qc_index__.js"},{"deps":{"./joystick":3},"path":"preview-scripts/assets/script/ball_crtl.js"},{"deps":{},"path":"preview-scripts/assets/script/enable_phy.js"},{"deps":{},"path":"preview-scripts/assets/script/joystick.js"}];
+var scripts = [{"deps":{"./assets/script/joystick":1,"./assets/script/enable_phy":2,"./assets/script/ball_crtl":3},"path":"preview-scripts/__qc_index__.js"},{"deps":{},"path":"preview-scripts/assets/script/joystick.js"},{"deps":{},"path":"preview-scripts/assets/script/enable_phy.js"},{"deps":{"./joystick":1},"path":"preview-scripts/assets/script/ball_crtl.js"}];
 var entries = ["preview-scripts/__qc_index__.js"];
 var bundleScript = 'preview-scripts/__qc_bundle__.js';
 

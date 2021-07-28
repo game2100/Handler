@@ -1,22 +1,22 @@
 {
   "__type__": "cc.SpriteFrame",
   "content": {
-    "name": "DPI",
-    "texture": "07aa9014-82b1-4341-8c47-273621abd53d",
+    "name": "map",
+    "texture": "e7822a3d-29e7-412f-8835-2015c392f578",
     "atlas": "",
     "rect": [
       0,
       0,
-      64,
-      64
+      350,
+      410
     ],
     "offset": [
       0,
       0
     ],
     "originalSize": [
-      64,
-      64
+      350,
+      410
     ],
     "capInsets": [
       0,

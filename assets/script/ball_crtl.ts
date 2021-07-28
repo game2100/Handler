@@ -52,7 +52,7 @@ export default class ball_ctrl extends cc.Component {
         var degree: number = r * 180 / Math.PI;
 
         degree = 360 - degree;
-        degree = degree - 90;
+        degree = degree + 90;
         this.node.rotation = degree;
     }
 }
