@@ -1,22 +1,22 @@
 {
   "__type__": "cc.SpriteFrame",
   "content": {
-    "name": "DP1",
-    "texture": "ac236725-4777-4ceb-94b8-c70b9d99cc45",
+    "name": "map",
+    "texture": "305f78ce-de8a-4e47-9f3a-8fbd22e8de57",
     "atlas": "",
     "rect": [
-      10,
-      10,
-      258,
-      258
+      0,
+      0,
+      350,
+      410
     ],
     "offset": [
-      -1,
-      1
+      0,
+      0
     ],
     "originalSize": [
-      280,
-      280
+      350,
+      410
     ],
     "capInsets": [
       0,

@@ -515,8 +515,8 @@
     "relativePath": "script"
   },
   "7588deb1-1aeb-4d1c-b5c2-98c14ee53eb1": {
-    "asset": 1627458866000,
-    "meta": 1627458866000,
+    "asset": 1627459214000,
+    "meta": 1627459214000,
     "relativePath": "scence\\Main Scence.fire"
   },
   "bef38771-67fd-4971-bca6-3a7940ae00bb": {
@@ -529,29 +529,29 @@
     "meta": 1627457932000,
     "relativePath": "script\\joystick.ts"
   },
-  "7ac2de0e-b882-421a-ab2d-92d25e9ad34f": {
-    "asset": 1627458370000,
-    "meta": 1627458370000,
-    "relativePath": "res\\tank.png"
-  },
-  "ac236725-4777-4ceb-94b8-c70b9d99cc45": {
-    "asset": 1627458442000,
-    "meta": 1627458442000,
-    "relativePath": "res\\DP1.png"
-  },
-  "e7822a3d-29e7-412f-8835-2015c392f578": {
-    "asset": 1627458526000,
-    "meta": 1627458526000,
-    "relativePath": "res\\map.png"
-  },
-  "cd580d5a-dd80-4543-acfe-5f86222d4e7d": {
-    "asset": 1627458580000,
-    "meta": 1627458580000,
-    "relativePath": "res\\yangan.png"
-  },
   "4cc2498b-009c-49c0-b113-36380f3ee3d6": {
     "asset": 1627458786000,
     "meta": 1627458790000,
     "relativePath": "script\\ball_crtl.ts"
+  },
+  "44859b91-9520-4ac4-9886-a6faf6e38f90": {
+    "asset": 1627459068000,
+    "meta": 1627459070000,
+    "relativePath": "res\\yangan.png"
+  },
+  "7c8e1adc-76c6-4661-9bae-03bfa16612de": {
+    "asset": 1627459068000,
+    "meta": 1627459070000,
+    "relativePath": "res\\DP1.png"
+  },
+  "305f78ce-de8a-4e47-9f3a-8fbd22e8de57": {
+    "asset": 1627459068000,
+    "meta": 1627459070000,
+    "relativePath": "res\\map.png"
+  },
+  "76a92286-02ee-4b2b-92d6-708f18ff1b4e": {
+    "asset": 1627459068000,
+    "meta": 1627459070000,
+    "relativePath": "res\\tank.png"
   }
 }
